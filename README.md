@@ -10,7 +10,7 @@
   <img src="https://github.com/taufiksatrian/BangkitAcademy/assets/72427297/948e6d8d-2b83-4ae4-abf1-8e342da17a24" alt="Elevator Pitch" style="width: 500px">
 </a>
 
-## [Video Presentation](https://github.com/taufiksatrian/BangkitAcademy/blob/main/Fruitarians%20Peer%20Review.pdf): Presentation.
+## [Presentation](https://github.com/taufiksatrian/BangkitAcademy/blob/main/Fruitarians%20Peer%20Review.pdf): Presentation.
 <a href="https://github.com/taufiksatrian/BangkitAcademy/blob/main/Fruitarians%20Peer%20Review.pdf" title="Presentation" target="_blank">
   <img src="https://github.com/taufiksatrian/BangkitAcademy/assets/72427297/04bec8cf-9b74-473f-b405-545a8b85ef8f" alt="Presentation" style="width: 500px">
 </a>
